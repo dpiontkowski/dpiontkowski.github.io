@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Danielle Piontkowski"
 output: html_document
 date: "2022-07-19"
 ---
@@ -8,6 +8,6 @@ date: "2022-07-19"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Random Title Here
-This is where random information would go . The hashtag is for title, the rest is regular body text. 
+## Welcome to my page!
+Hello everyone. My name is Danielle. I'm a current Environmental and Occupational Health PhD student at Drexel University. My research focuses on air pollution, temperature, and mental health emergency department visits. 
 
