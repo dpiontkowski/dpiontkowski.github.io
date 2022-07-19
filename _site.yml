@@ -1,0 +1,23 @@
+name: "Dani Piontkowski"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "CV"
+      href: Piontkowski_CV_2020.pdf
+    - text: "Publications"
+      href: publications.html
+  left: 
+    - icon: fa-home fa-lg
+      href: index.html 
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/danielle-piontkowski
+    - icon: fa-envelope fa-lg
+      href: mailto:<dp3238@drexel.edu.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/<YOUR_GH_NAME>/
+output:
+  html_document:
+    theme: cerulean

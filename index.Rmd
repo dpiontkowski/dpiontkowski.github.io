@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Random Title Here
-This is where random information would go 
+This is where random information would go . The hashtag is for title, the rest is regular body text. 
 
 ```{r cars}
 summary(cars)
